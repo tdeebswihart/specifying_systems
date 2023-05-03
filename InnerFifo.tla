@@ -1,5 +1,5 @@
----- MODULE InnerFifo ----
-\* InnerFifo describes the inside of a FIFO queue mediated by the 
+---- MODULE InnerFIFO ----
+\* Describes the inside of a FIFO queue mediated by the 
 \* protocol described in Channel.tla
 EXTENDS TLC, Naturals, Sequences
 
